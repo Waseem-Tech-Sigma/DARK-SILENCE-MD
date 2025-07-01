@@ -1,12 +1,12 @@
 {
-  "name": "DARK-SILENCE-MD",
+  "name": "ALPHA-X",
   "version": "1.0.3",
-  "description": "A WhatsApp bot created using Node.js",
+  "description": "A WhatsApp bot created by WASEEM-TECH using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name DARK-SILENCE-MD",
-    "stop": "pm2 stop DARK-SILENCE-MD",
-    "restart": "pm2 restart DARK-SILENCE-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name ALPHA-X",
+    "stop": "pm2 stop ALPHA-X",
+    "restart": "pm2 restart ALPHA-X"
   },
   "engines": {
     "node": ">=22.16.0",
