@@ -1,7 +1,7 @@
 {
-  "name": "DARK-SILENCE-MD",
-  "description": "JAVASCRIPT WHATSAPP BOT PROJECT POWERD BY SILENTLOVER432 ♥️",
-  "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
+  "name": "ALPHA-X",
+  "description": "JAVASCRIPT WHATSAPP BOT PROJECT POWERED BY WASEEM-TECH 💀♥️",
+  "logo": "https://i.postimg.cc/zvp5vDGG/fotor-ai-20250628111616.jpg",
   "keywords": ["bot"],
   "success_url": "/",
   "env": {
@@ -14,13 +14,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/9vg76j"
+      "value": "https://i.postimg.cc/zvp5vDGG/fotor-ai-20250628111616.jpg"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "𝔻𝔸ℝ𝕂-𝕊𝕀𝕃𝔼ℕℂ𝔼-𝕄𝔻 𝔸𝕃𝕀𝕍𝔼 ℕ𝕆𝕎 🤍💫💨"
+      "value": "Zinda hun Yaar ALPHA-X🤍💫💨"
     },
     
     "PREFIX": {
@@ -92,7 +92,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦𝐃𝐀𝐑𝐊-𝐒𝐈𝐋𝐄𝐍𝐂𝐄-𝐌𝐃✦"
+      "value": "✦ALPHA-X✦"
     }, 
 
     "HEART_REACT": {
@@ -110,7 +110,7 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐒𝐎𝐁𝐈𝐀•𝐁𝐔𝐓𝐓🦋🤍"
+      "value": "POWERED BY WASEEM-TECH✌👑"
     }, 
     
     "STATUS_REPLY": {
@@ -158,13 +158,13 @@
     "OWNER_NUMBER": {
       "description": "replace it with your own number.",
       "required": false,
-      "value": "923251869133"
+      "value": "923458136245"
     }, 
 
     "OWNER_NAME": {
       "description": "replace it with your own name.",
       "required": false,
-      "value": "➺𝑺𝑶𝑩𝑰𝑨•𝑩𝑼𝑻𝑻🦋🤍࿐"
+      "value": "➺WASEEM-TECH࿐"
      },
 
     "INBOX_BLOCK": {
